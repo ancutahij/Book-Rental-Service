@@ -1,0 +1,5 @@
+b69,Rosu si Negru,Realism,Mihai
+b4,Ion,Realism,Otilia
+b55,Enigma Otiliei,Horror,Otilia
+b64,Oameni si soareci,Horror,Gabriel
+b99,Rosu si Negru,Horror,Mihai
